@@ -1,0 +1,9 @@
+C:\Users\h\source\repos\Bank-BusinessLayer\bin\Debug\Bank-BusinessLayer.dll
+C:\Users\h\source\repos\Bank-BusinessLayer\bin\Debug\Bank-BusinessLayer.pdb
+C:\Users\h\source\repos\Bank-BusinessLayer\bin\Debug\Bank-DataAccessLayer.dll
+C:\Users\h\source\repos\Bank-BusinessLayer\bin\Debug\Bank-DataAccessLayer.pdb
+C:\Users\h\source\repos\Bank-BusinessLayer\obj\Debug\Bank-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\h\source\repos\Bank-BusinessLayer\obj\Debug\Bank-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\h\source\repos\Bank-BusinessLayer\obj\Debug\Bank-Bus.CEB7C7B5.Up2Date
+C:\Users\h\source\repos\Bank-BusinessLayer\obj\Debug\Bank-BusinessLayer.dll
+C:\Users\h\source\repos\Bank-BusinessLayer\obj\Debug\Bank-BusinessLayer.pdb

@@ -1,0 +1,6 @@
+C:\Users\h\source\repos\Bank-DataAccessLayer\bin\Debug\Bank-DataAccessLayer.dll
+C:\Users\h\source\repos\Bank-DataAccessLayer\bin\Debug\Bank-DataAccessLayer.pdb
+C:\Users\h\source\repos\Bank-DataAccessLayer\obj\Debug\Bank-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\h\source\repos\Bank-DataAccessLayer\obj\Debug\Bank-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\h\source\repos\Bank-DataAccessLayer\obj\Debug\Bank-DataAccessLayer.dll
+C:\Users\h\source\repos\Bank-DataAccessLayer\obj\Debug\Bank-DataAccessLayer.pdb
